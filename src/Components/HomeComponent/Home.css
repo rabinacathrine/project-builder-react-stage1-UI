@@ -1,0 +1,21 @@
+
+.container{
+    margin: 0%;
+    background: royalblue;
+    display: flex;
+    height: 600px;
+    text-align: center;
+    align-items: center; 
+    justify-content:center;
+    flex-direction: column;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.play{
+    background-color: seagreen;
+    border-radius: 25px;
+    color: white;
+    width: 100px;
+    height: 35px;
+}
